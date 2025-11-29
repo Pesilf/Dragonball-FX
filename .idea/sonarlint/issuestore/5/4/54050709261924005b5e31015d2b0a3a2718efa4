@@ -1,0 +1,9 @@
+
+™
+java:S1104 "QMake MUSIC a static final constant or non-public and provide accessors if needed.(ş­À¼úÿÿÿÿ8ô…ìş1J$92d62882-8f27-437a-8470-c43bebd7b788
+s
+java:S1444 "+Make this "public static MUSIC" field final(ş­À¼úÿÿÿÿ8õ…ìş1J$fde40bda-7552-4cd9-8df4-df68a5d5c119
+˜
+java:S3008 "PRename this field "MUSIC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş­À¼úÿÿÿÿ8Œ‘…ìş1J$43df8e22-695c-4e34-97bb-6e28835641c5
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ıñ»øÿÿÿÿ8‡·¢ı¬3J$a0950a17-3e24-4f61-b2ca-bb0a86b6e2dd

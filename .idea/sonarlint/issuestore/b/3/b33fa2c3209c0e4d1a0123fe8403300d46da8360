@@ -1,0 +1,20 @@
+
+d
+java:S2184N"BCast one of the operands of this division operation to a "double".(Å•Ø´ÿÿÿÿÿ8°¤´ƒş1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ8’»„Ìı1J$f31ceb21-c937-4090-80f5-8302a38e5ea1
+ª
+java:S1450,"bRemove the "randomSelectionPane" field and declare it as a local variable in the relevant methods.(Å¬º¶ıÿÿÿÿ8Ò¹ãùü1J$6751d6a5-0b79-4862-b601-80f1eb838c4d
+o
+java:S6201—"LReplace this instanceof check and cast with 'instanceof StackPane stackPane'(¢ÊÏ¶ùÿÿÿÿ8Ş¤´ƒş1
+f
+java:S1612™"HReplace this lambda with method reference 'Rectangle.class::isInstance'.(¯­°8ß¤´ƒş1
+;
+java:S2119£"Save and re-use this "Random".(¼İÅf8à¤´ƒş1
+…
+java:S1128"BRemove this unused import 'controller.TimerController.startTimer'.(ÁãØ·8„’´ƒş1J$221e1538-df66-4d80-9c56-f7f063ce5740
+
+java:S1128"7Remove this unused import 'controller.TimerController'.(¨ñƒ—úÿÿÿÿ8„’´ƒş1J$f48a2b3b-38fb-4525-8d8b-02b9165eb378
+{
+java:S1128"3Remove this unused import 'javafx.scene.text.Text'.(˜ÿ‡Üşÿÿÿÿ8„’´ƒş1J$d2b9f3e5-bb08-4924-a357-8c02b3917a96
+J
+java:S1128 "(Remove this unused import 'model.Timer'.(ËºÍ„ıÿÿÿÿ8á¤´ƒş1

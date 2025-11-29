@@ -1,0 +1,10 @@
+
+}
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÓ¥ä8ìœ©ı¬3J$806661ef-9e54-4877-b8bc-dda02b4ea500
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(¦¹8‚îÀ€ş1J$f0f1fbb1-8f80-4d25-b7dd-f4f7ec5519ad
+k	java:S108:")Either remove or fill this block of code.(½Üôƒ8’îÀ€ş1J$60c29f33-3f60-45d9-bff8-5d7838b770c0
+•
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(×éòh8’îÀ€ş1J$46b19a89-4f31-43a1-b440-6b099062c71c
+e
+java:S1170 "!Make this final field static too.(¹àé8’îÀ€ş1J$9ae861f4-4bc8-442e-932e-af654327ca1d
